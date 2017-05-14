@@ -7,6 +7,8 @@ This is a resource page for very important topics and links on the subject matte
 1. Mancy - https://github.com/princejwesley/Mancy/releases
 2. The Coding Channel - https://www.youtube.com/user/shiffman
 3. Markdown Primer - https://help.gamejolt.com/markdown
+4. Mixus Node Book - http://book.mixu.net/node/single.html
+5. Arindam Paul\`s Video on JS VM internals - https://www.youtube.com/watch?v=QyUFheng6J0
 
 ## JS Tutorials and Important Stuff
 
@@ -26,8 +28,8 @@ This is a resource page for very important topics and links on the subject matte
 
 3. **The firing cycle - How it integrates with HTML and Events.**
 
-    Watch about Event Loop [Some UKish Guy with a Pink background gives an excellent talk on it] in youtube.
-
+    Watch about Event Loop Video on youtube by Philip Roberts. Check out [this link](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+    
 4. **Error Handling and Related Stuff**
 
 5. **Debugging**
@@ -35,18 +37,19 @@ This is a resource page for very important topics and links on the subject matte
 6. **Standards**
 
 7. **Object Orientation**
-  - Objects and Class, Prototypes
-  - Functions - Anonymous
-  - this, bind etc
-  - Hoisting
-  - Constructors
-  - 4 pillars - polymorphism, inheritance, etc How to do this the JS way.
+    - Objects and Class, Prototypes
+    - Functions - Anonymous, Expression, Scoping
+    - this, bind etc
+    - Hoisting
+    - Constructors
+    - Closure
+    - 4 pillars - polymorphism, inheritance, etc How to do this the JS way.
   
  8. **Design patterns** - important ones - Factory, Module Pattern [Important for making namespace & libraries] etc
  
  9. **Application**
-  - p5 JS - Using it in games, Visual Info Stuff
-  - Library design like jquery - This is where Nicholas Zakas Video that he gave at an event about the structure and definition of libraries comes in. Check out [this link](https://www.youtube.com/watch?v=mKouqShWI4o)
-  - Sigma js - social graph [ LOL HiSol ]
-  - Electron app
-  - Node js app - Regarding node js, try doing something where multiple http links are processed! Yes, you learn what async really is. Find out some algorithmns [ mixu\`s ? ] for parallel, series and series parallel. [ Insights anyone ? lol ]
+    - p5 JS - Using it in games, Visual Info Stuff
+    - Library design like jquery - This is where Nicholas Zaka\`s Video at BoxTech comes in handy. He gave the talk at an event about the structure of libraries and how it all come to be. the example of AJAX upgrade from xml to json was awesome! Check out [this link](https://www.youtube.com/watch?v=mKouqShWI4o)
+    - Sigma js - social graph [ LOL HiSol ]
+    - Electron app
+    - Node js app - Regarding node js, try doing something where multiple http links are processed! Yes, you learn what async really is. Find out some algorithmns [ mixu\`s ? ] for parallel, series and series parallel. [ *InsightsonIndia* anyone ? LOL ] Hint : Check out [this link](http://book.mixu.net/node/ch7.html) : Control Flow pattern. Took me three days to understand it! but worth it! Perhaps you will love JS\`s Beauty. Also, the concept of closure and scoping becomes clear!
